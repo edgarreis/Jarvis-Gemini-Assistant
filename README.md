@@ -61,6 +61,8 @@ O código implementa um loop que permite a conversação com o Jarvis. O loop fu
 5. **Fale sua pergunta** e clique em "Stop Recording" quando terminar.
 6. O Jarvis irá responder à sua pergunta por voz.
 
+Obs.: Este programa utiliza seu microfone e fone de ouvido para interface 
+
 ## Licença
 
 GPL v3
