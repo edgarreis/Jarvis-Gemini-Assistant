@@ -31,7 +31,7 @@ O Jarvis utiliza as seguintes bibliotecas:
 
 1. **Crie uma conta do Google Cloud** ([https://cloud.google.com/](https://cloud.google.com/)) e habilite a API do GenerativeAI.
 2. **Obtenha a sua chave de API** e armazene-a com segurança usando `google.colab.userdata.set('API_KEY', 'sua-chave-api')`.
-
+Obs.: Documentação da API em: https://ai.google.dev/gemini-api/docs/system-instructions?hl=pt-br
 ## Configuração do Modelo
 
 * **`generation_config`:** Define o número de candidatos de resposta (1) e a temperatura (0.5).
