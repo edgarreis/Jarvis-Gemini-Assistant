@@ -1,6 +1,10 @@
-# Jarvis: Um assistente de voz utilizando Google GenerativeAI
+# Jarvis: Um assistente de voz utilizando Google GenerativeAI 🎤 🎧
 
-Este repositório contém o código-fonte para um assistente de voz chamado Jarvis, construído com o Google GenerativeAI e bibliotecas Colab. O Jarvis é capaz de converter texto em fala, realizar gravações de áudio e responder a perguntas utilizando o modelo de linguagem generativa Gemini-1.5-pro-latest.
+🧑‍🦯 Jarvis é uma Interface para pessoas com deficiência visual poderem utilizar a IA generativa do Google (Gemini).
+
+🤖 Utilizando a gravação de voz do usuário como entrada para a Gemini API e do retorno desta é convertido em Áudio para a conversa continua com o usuário.
+
+⚙️ Este repositório contém o código-fonte para o assistente de voz chamado Jarvis, construído com o Google GenerativeAI e bibliotecas Colab. O Jarvis é capaz de converter texto em fala, realizar gravações de áudio e responder a perguntas utilizando o modelo de linguagem generativa Gemini-1.5-pro.
 
 ## Instalação
 
